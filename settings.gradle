@@ -1,0 +1,2 @@
+include ':UserCredential'
+rootProject.name='Recognition_Crops'

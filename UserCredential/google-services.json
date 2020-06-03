@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "501071784208",
+    "firebase_url": "https://mimic-lens.firebaseio.com",
+    "project_id": "mimic-lens",
+    "storage_bucket": "mimic-lens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501071784208:android:28dd1110b738a2753a9d95",
+        "android_client_info": {
+          "package_name": "com.example.recognition_crops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501071784208-8tp4alcv3sqtcpedo0tjq2ajq2i8s0qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recognition_crops",
+            "certificate_hash": "0847377de73020865eff0599f42707f910972fc8"
+          }
+        },
+        {
+          "client_id": "501071784208-fgfftav8q6jas2alksh8t0hcb8aun8g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVd-dwBOv6hZtI9onFKxfMbyH31itBLzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501071784208-fgfftav8q6jas2alksh8t0hcb8aun8g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
