@@ -1,4 +1,4 @@
-package com.example.recognition_crops;
+package com.leela.crops_recognition;
 
 
 public class User {

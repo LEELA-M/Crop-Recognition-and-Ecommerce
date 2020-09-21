@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.recognition_crops">
+    package="com.leela.crops_recognition">
 
     <uses-feature
         android:name="android.hardware.camera2"
@@ -25,18 +25,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ListingEverthing"></activity>
-        <activity android:name=".buyActivity" />
+        <activity android:name="com.leela.crops_recognition.ListingEverthing"></activity>
+        <activity android:name="com.leela.crops_recognition.buyActivity" />
 
-        <activity android:name=".eCommerce"/>
+        <activity android:name="com.leela.crops_recognition.eCommerce"/>
       <meta-data
             android:name="com.google.firebase.ml.vision.DEPENDENCIES"
             android:value="label" /> <!-- To use multiple models: android:value="label,model2,model3" -->
-        <activity android:name=".Log_in" />
-        <activity android:name=".Home_Page"/>
+        <activity android:name="com.leela.crops_recognition.Log_in" />
+        <activity android:name="com.leela.crops_recognition.Home_Page"/>
 
-        <activity android:name=".phoneOtp" />
-        <activity android:name=".Starter" >
+        <activity android:name="com.leela.crops_recognition.phoneOtp" />
+        <activity android:name="com.leela.crops_recognition.Starter" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />

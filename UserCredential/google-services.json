@@ -1,42 +1,100 @@
 {
   "project_info": {
-    "project_number": "501071784208",
-    "firebase_url": "https://mimic-lens.firebaseio.com",
-    "project_id": "mimic-lens",
-    "storage_bucket": "mimic-lens.appspot.com"
+    "project_number": "990699398384",
+    "firebase_url": "https://crop-identification-c913d.firebaseio.com",
+    "project_id": "crop-identification-c913d",
+    "storage_bucket": "crop-identification-c913d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:501071784208:android:28dd1110b738a2753a9d95",
+        "mobilesdk_app_id": "1:990699398384:android:9a78b5b35c2bf997b2ce35",
         "android_client_info": {
-          "package_name": "com.example.recognition_crops"
+          "package_name": "com.example.croprecognition"
         }
       },
       "oauth_client": [
         {
-          "client_id": "501071784208-8tp4alcv3sqtcpedo0tjq2ajq2i8s0qd.apps.googleusercontent.com",
+          "client_id": "990699398384-p92tae0m1h6q4piaegelm90idp3jipj5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.recognition_crops",
+            "package_name": "com.example.croprecognition",
             "certificate_hash": "0847377de73020865eff0599f42707f910972fc8"
           }
         },
         {
-          "client_id": "501071784208-fgfftav8q6jas2alksh8t0hcb8aun8g8.apps.googleusercontent.com",
+          "client_id": "990699398384-jf2lbh93gnkqs07pkuq596tseje70jc6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBVd-dwBOv6hZtI9onFKxfMbyH31itBLzU"
+          "current_key": "AIzaSyAmWmC-cuttPfRVSMaADql9xl0Z-_n7vyo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "501071784208-fgfftav8q6jas2alksh8t0hcb8aun8g8.apps.googleusercontent.com",
+              "client_id": "990699398384-jf2lbh93gnkqs07pkuq596tseje70jc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990699398384:android:d3b56dc3671f0ae0b2ce35",
+        "android_client_info": {
+          "package_name": "com.leela.crops_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990699398384-jf2lbh93gnkqs07pkuq596tseje70jc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWmC-cuttPfRVSMaADql9xl0Z-_n7vyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990699398384-jf2lbh93gnkqs07pkuq596tseje70jc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990699398384:android:8e1b8f90c2ba203eb2ce35",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.classification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990699398384-jf2lbh93gnkqs07pkuq596tseje70jc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWmC-cuttPfRVSMaADql9xl0Z-_n7vyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990699398384-jf2lbh93gnkqs07pkuq596tseje70jc6.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

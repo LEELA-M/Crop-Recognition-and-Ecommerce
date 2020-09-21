@@ -1,4 +1,4 @@
-package com.example.recognition_crops;
+package com.leela.crops_recognition;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.content.pm.PackageManager;

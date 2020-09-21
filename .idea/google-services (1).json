@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "401032847519",
+    "firebase_url": "https://final-recognition.firebaseio.com",
+    "project_id": "final-recognition",
+    "storage_bucket": "final-recognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401032847519:android:128dabbfca019049e902aa",
+        "android_client_info": {
+          "package_name": "com.leela.crops_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401032847519-dhr3jb2do1f92dou5f9pshfel44vsp0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leela.crops_recognition",
+            "certificate_hash": "0847377de73020865eff0599f42707f910972fc8"
+          }
+        },
+        {
+          "client_id": "401032847519-goiq2uepu1nbtnrj5gc10msbmbtotkjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD6y1dx4XlNO0KZwEC6OB8VNS4clGbMTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401032847519-goiq2uepu1nbtnrj5gc10msbmbtotkjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
